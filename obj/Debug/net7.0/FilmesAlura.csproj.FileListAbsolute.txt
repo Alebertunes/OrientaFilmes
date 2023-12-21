@@ -1,0 +1,14 @@
+c:\Users\alexa\OneDrive\Área de Trabalho\FilmesAlura\bin\Debug\net7.0\FilmesAlura.exe
+c:\Users\alexa\OneDrive\Área de Trabalho\FilmesAlura\bin\Debug\net7.0\FilmesAlura.deps.json
+c:\Users\alexa\OneDrive\Área de Trabalho\FilmesAlura\bin\Debug\net7.0\FilmesAlura.runtimeconfig.json
+c:\Users\alexa\OneDrive\Área de Trabalho\FilmesAlura\bin\Debug\net7.0\FilmesAlura.dll
+c:\Users\alexa\OneDrive\Área de Trabalho\FilmesAlura\bin\Debug\net7.0\FilmesAlura.pdb
+c:\Users\alexa\OneDrive\Área de Trabalho\FilmesAlura\obj\Debug\net7.0\FilmesAlura.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\alexa\OneDrive\Área de Trabalho\FilmesAlura\obj\Debug\net7.0\FilmesAlura.AssemblyInfoInputs.cache
+c:\Users\alexa\OneDrive\Área de Trabalho\FilmesAlura\obj\Debug\net7.0\FilmesAlura.AssemblyInfo.cs
+c:\Users\alexa\OneDrive\Área de Trabalho\FilmesAlura\obj\Debug\net7.0\FilmesAlura.csproj.CoreCompileInputs.cache
+c:\Users\alexa\OneDrive\Área de Trabalho\FilmesAlura\obj\Debug\net7.0\FilmesAlura.dll
+c:\Users\alexa\OneDrive\Área de Trabalho\FilmesAlura\obj\Debug\net7.0\refint\FilmesAlura.dll
+c:\Users\alexa\OneDrive\Área de Trabalho\FilmesAlura\obj\Debug\net7.0\FilmesAlura.pdb
+c:\Users\alexa\OneDrive\Área de Trabalho\FilmesAlura\obj\Debug\net7.0\FilmesAlura.genruntimeconfig.cache
+c:\Users\alexa\OneDrive\Área de Trabalho\FilmesAlura\obj\Debug\net7.0\ref\FilmesAlura.dll
